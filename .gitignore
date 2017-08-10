@@ -1,0 +1,23 @@
+*.sw?
+.#*
+*#
+*~
+dependency-reduced-pom.xml
+.idea
+out
+README.html
+.gradle
+bin
+build
+target
+*.i*
+.classpath
+.project
+.settings
+*.log
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
